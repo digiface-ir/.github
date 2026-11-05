@@ -1,14 +1,14 @@
 <div align="center">
 
-<a href="https://digi-face.ir"><img src="https://raw.githubusercontent.com/digiface-ir/.github/main/profile/assets/hero.png" width="88%" alt="دیجی‌فیس — لوازم آرایشی و بهداشتی، از فروشگاه‌های شهرت تا درِ خانه‌ات. Beauty and personal care, from the shops in your city to your door. digi-face.ir"></a>
+<a href="https://digi-face.ir"><img src="https://raw.githubusercontent.com/digiface-ir/.github/main/profile/assets/hero-v2.png" width="88%" alt="دیجی‌فیس — لوازم آرایشی و بهداشتی، از فروشگاه‌های شهرت تا درِ خانه‌ات. Beauty and personal care, from the shops in your city to your door. digi-face.ir"></a>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/digiface-ir/.github/main/profile/assets/about.png" width="88%" alt="دیجی‌فیس چیست؟ بازار آنلاینِ لوازم آرایشی و بهداشتی: فروشگاه‌ها کالاهایشان را عرضه می‌کنند، مشتری از فروشگاه‌های شهرِ خودش می‌خرد و پیکِ دیجی‌فیس سفارش را به دستش می‌رساند. ۰۱ برای مشتری، ۰۲ برای فروشگاه، ۰۳ برای پیک، ۰۴ جشنواره‌ها و باکس‌ها.">
+<img src="https://raw.githubusercontent.com/digiface-ir/.github/main/profile/assets/about-v2.png" width="88%" alt="دیجی‌فیس چیست؟ بازار آنلاینِ لوازم آرایشی و بهداشتی: فروشگاه‌ها کالاهایشان را عرضه می‌کنند، مشتری از فروشگاه‌های شهرِ خودش می‌خرد و پیکِ دیجی‌فیس سفارش را به دستش می‌رساند. ۰۱ برای مشتری، ۰۲ برای فروشگاه، ۰۳ برای پیک، ۰۴ جشنواره‌ها و باکس‌ها.">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/digiface-ir/.github/main/profile/assets/flow.png" width="88%" alt="یک سفارش، از اول تا آخر: ۱ عرضه، ۲ خرید، ۳ آماده‌سازی، ۴ تحویل.">
+<img src="https://raw.githubusercontent.com/digiface-ir/.github/main/profile/assets/flow-v2.png" width="88%" alt="یک سفارش، از اول تا آخر: ۱ عرضه، ۲ خرید، ۳ آماده‌سازی، ۴ تحویل.">
 
 <br><br>
 
