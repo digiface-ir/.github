@@ -11,3 +11,5 @@ Organization-wide defaults for every DigiFace repository that has none of its ow
 
 This repository is public, because GitHub only shows the profile page from a public
 `.github`. Nothing internal goes here.
+
+The profile images are drawn by `profile/source/make_profile_art.py` (Estedad and Vazirmatn, SIL Open Font License), because GitHub strips fonts from a README. Change the text there and run it again.
